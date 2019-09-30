@@ -1,0 +1,1 @@
+dotnet VirusTotalAPI.dll
